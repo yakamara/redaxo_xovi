@@ -1,0 +1,30 @@
+settings = Einstellungen
+credits = Credits
+
+getkeywords = Keywords
+getovitrend = Trend OVI
+getkeywordtrend = Trend Keywords
+getbacklinks = Backlinks
+getreportings = Reportings
+
+settings_domain = Domain (z.B. www.redaxo.org)
+settings_api_token = API-Key
+settings_search_engines = Search-Engines (z.B. google.de)
+settings_chart_num_weeks = Chart Anzahl Wochen
+settings_results = Anzahl Ergebnisse
+settings_save = Änderungen speichern
+settings_saved = Änderungen gespeichert
+
+settings_credit_total = Credits Summe
+settings_credit_used = Credits verbraucht
+settings_credit_left = Credits verfürbar
+
+feed_load_save = Ergebnis aktualisieren und speichern
+
+data_loaded = Daten geladen
+
+results = Ergebnisse
+results_select = Ergebisse für Keywords: Auswahl
+
+feed_search_load_save = Ergebis mit Keyword laden und speichern
+missing_keyword = Bitte Keyword eingeben. 
